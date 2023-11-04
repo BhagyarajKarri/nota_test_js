@@ -1,5 +1,6 @@
 # nota_test_js
 - Please place your solutions in separated folders:
+- 
   - task1 - for Task 1
   - task2 - for Task 2 
 - Please comment the code
